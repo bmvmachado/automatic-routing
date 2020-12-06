@@ -4,7 +4,8 @@ Route requests to specific controllers and\or actions based on configurations
 Based on configuration change the controller and action that will process the request.
 
 Configuration Example
-`"FeatureRouting": [
+```JSON
+"FeatureRouting": [
   {
     "Header": {
       "Key": "Identifier",
@@ -20,5 +21,6 @@ Configuration Example
         "Action": "Get"
       }
     }
-  }`
+  }
+```
   
