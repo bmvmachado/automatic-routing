@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-automatic-routing", "web-automatic-routing\web-automatic-routing.csproj", "{BDEA5D05-4ECC-4AC4-8DB6-F69B80C9F92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEA5D05-4ECC-4AC4-8DB6-F69B80C9F92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEA5D05-4ECC-4AC4-8DB6-F69B80C9F92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEA5D05-4ECC-4AC4-8DB6-F69B80C9F92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEA5D05-4ECC-4AC4-8DB6-F69B80C9F92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A7ECB2-22AD-4E13-B2D9-9E984C540522}
+	EndGlobalSection
+EndGlobal
